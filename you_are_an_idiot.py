@@ -78,3 +78,7 @@ def start_malware():
         main()
         pass
     pass
+
+
+
+start_malware()
