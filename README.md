@@ -7,6 +7,7 @@ there's an automatic requirements installation if you're lazy🦥
 
 
 requirements:
+python 3.13.3
 ```
 pip install pygame
 ```
