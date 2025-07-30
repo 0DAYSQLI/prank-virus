@@ -15,8 +15,19 @@ pip install pygame
 
 
 
-good luck pranking your friends! 🤭
 
 
 don't edit the code to become a real malware!
 
+
+
+# How to run?🤔
+
+
+always check that idiot.gif & idiot.wav are in the same folder that you_are_an_idiot.py in
+
+if so, the 'virus' will run!
+
+
+
+good luck pranking your friends! 🤭
